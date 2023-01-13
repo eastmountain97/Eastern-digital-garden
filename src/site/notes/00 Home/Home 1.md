@@ -2,16 +2,15 @@
 {"dg-publish":true,"permalink":"/00 Home/Home 1/","tags":["gardenEntry"]}
 ---
 
-# Hello World
+# 欢迎来到我的数字花园
 ---
+
 This is my eastern Digital garden 
 
-这是我的东方花园
+[[01.Obsidian入门\|01.Obsidian入门]]
 
-[[03 OBsidian knowledge/01.Obsidian入门\|01.Obsidian入门]]
+[[00 设计知识统计\|00 设计知识统计]]
 
-[[04 Design/00 设计知识统计\|00 设计知识统计]]
-
-[[04 Design/01-版式设计\|01-版式设计]]
+[[01-版式设计\|01-版式设计]]
 
 
