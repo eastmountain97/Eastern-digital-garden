@@ -9,7 +9,7 @@ This is my eastern Digital garden
 
 [[01.Obsidian入门\|01.Obsidian入门]]
 
-[[00 设计知识统计\|00 设计知识统计]]
+[[04 design/00.设计知识统计\|设计知识统计]]
 
 [[01-版式设计\|01-版式设计]]
 
