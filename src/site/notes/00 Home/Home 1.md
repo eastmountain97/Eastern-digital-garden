@@ -11,6 +11,6 @@ This is my eastern Digital garden
 
 [[04 design/00.设计知识统计\|设计知识统计]]
 
-[[01-版式设计\|01-版式设计]]
+[[04 design/01.版式设计\|01.版式设计]]
 
 
